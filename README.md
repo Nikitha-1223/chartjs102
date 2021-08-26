@@ -8,3 +8,4 @@ Steps to visualize charts on cloud
 6. Now deploy the code to S3 bucket in AWS platform
 7. Make the file public
 8. Get the link of the site where your chart can be visualized.
+My chart link : https://chartjsbucket.s3.us-east-1.amazonaws.com/chart1.html
